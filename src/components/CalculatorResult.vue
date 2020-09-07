@@ -40,7 +40,7 @@ export default {
   height: 90px;
   width: 200px;
   border-radius: 3px;
-  margin: 10px 0 0 12px;
+  margin: 10px 0 1 12px;
   position: absolute;
   border: 1px solid #000;
 }
