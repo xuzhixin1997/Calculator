@@ -46,7 +46,7 @@ export default {
 }
 
 .inputup {
-  height: 45px;
+  height: 46px;
   width: 200px;
   border: none;
   font-size: 15px;
